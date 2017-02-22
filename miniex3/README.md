@@ -1,1 +1,1 @@
-[Link](https://emmaottilie.github.io/Exercises/miniex3/)
+[Link til throbber](https://emmaottilie.github.io/Exercises/miniex3/)
