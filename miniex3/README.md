@@ -7,4 +7,4 @@ Then there was this whole thing with the opacity, and after struggling to make t
 
 I decided I wanted a soundtrack and played around with a couple of songs, but landed on this one. I feel like it compliments the tone of this throbber and my feelings so far in coding.
 
-B) 
+B) How may we use programming to reflect and inquire digital (visual) culture? Lemme get back to you on that.
