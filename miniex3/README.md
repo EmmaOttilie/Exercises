@@ -7,4 +7,6 @@ Then there was this whole thing with the opacity, and after struggling to make t
 
 I decided I wanted a soundtrack and played around with a couple of songs, but landed on this one. I feel like it compliments the tone of this throbber and my feelings so far in coding. Actually just my brain in general. 
 
-B) How may we use programming to reflect and inquire digital (visual) culture? Lemme get back to you on that.
+B) When we program, it gives us an entirely new way of understanding and interpreting visual culture. Graphic and visual immagry online is a great way to show people the underlying program behind a site or a service. It can open up the processes and start conversations about programs that might not have been otherwise. 
+There are countless cultures represented in the digital world, as well as cultures that exists only online. It can be said that programming is unifying these different cultures in that they all have programming in common. These cultures can be expressed very differently visually, and with open source progamming this is a opportune way to research how codes, programming and their graphical products differ in culture as well as what they have in common. 
+Code and culture both change all the time and they are inseperable. There will always be culture evident in programming. As such, the digital visual culture can ongoingly be understood, reflected on and evolved through understanding programming. 
