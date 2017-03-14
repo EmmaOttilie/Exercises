@@ -5,7 +5,7 @@ B) ![ScreenShot](https://github.com/EmmaOttilie/Exercises/blob/gh-pages/miniex5/
 This program generates haiku poems when you press the mousebutton. 
 
 C) Turns out I didn't use RiTa at all, even though I thought I did.
-I put the library in my index and had it working when I started out, but as I made the program, all my functions and syntax was actually already in the p5 library. I didn't notice till I was nearly done and did't want to make a whole new program. So.. Yeah. 
+I put the library in my index and had it working when I started out, but as I made the program, all my functions and syntax was actually already in the p5 library. I didn't notice till I was nearly done and did't want to make a whole new program. I tried to implement RiTa in my loops, but I could not make that work. More on that later.
 
 D) I had a lot of fun with this one. I got the idea for the haikus pretty quickly and just had to figure out how to make it. My text isn't found material, I made my own instead of having to find a bunch of haikus. Using a txt file and calling it worked fine, I just had to seperate the three lines of text into three files and call them individually to make sure I kept the haiku format when it randomizes the phrases. 
 
