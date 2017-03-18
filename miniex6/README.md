@@ -11,8 +11,7 @@ I wanted the colour of each new branch to gradually get darker with each mouse p
 I wanted multiple trees growing in different sizes and colours, at different positions in the canvas. Also didn’t happen. 
 Then I thought, well at least I can make the tree stop growing and then subtract branches with mouse press! Nope. Couldn’t even make that work.
 
-C)
-My thought proces in this exercise was that I wanted to create a mix of interactivity and generativity. 
+C)  My thought proces in this exercise was that I wanted to create a mix of interactivity and generativity. 
 To me, generative software is something that encourages unanticipated change through contributions. So you can do something with it, but also just watch as the program does something on its own. That is why I wanted the colour changes and the branches to get smaller. 
 
-D)
+D)  The aesthetics of generativity can be so many things. As I mentioned - generativity is something that has the ability to change and morph, based on a set of rules and an input. Applied, this can be axpressed in many different ways; visual, audio, tactile and so on. It all depends on the specific program and especially on the person creating it. The aesthetics of a program will always be an expression of the "author" and how they make and percieve their piece. Whether a simple piece of code or a complex artwork, generativity always has aesthetics imbedded in it. It all depends on the eyes that see. 
