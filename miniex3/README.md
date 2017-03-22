@@ -1,4 +1,5 @@
 [Throbber link](https://emmaottilie.github.io/Exercises/miniex3/)
+![ScreenShot](https://github.com/EmmaOttilie/Exercises/blob/gh-pages/miniex3/2.png)
 
 A) My idea was to keep it pretty simple and just tweak the classic spinner. I've decided to keep the pink colour in all my exercises, to make a story of how my coding is developing throughout this course. So expect a lot of that.
 
