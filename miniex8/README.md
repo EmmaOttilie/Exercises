@@ -1,6 +1,8 @@
 
 A)  I made my own original code in stead of changing a coding challenge. I call it Kitty AI.
 
+[Link](https://emmaottilie.github.io/Exercises/miniex8/)
+
 B)  This program includes variables, functions of mousepressed and mousedragged and a counter. It also includes a button, an image and a sound. 
 
 ![ScreenShot](https://github.com/EmmaOttilie/Exercises/blob/gh-pages/miniex8/8.png)
