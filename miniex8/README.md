@@ -3,7 +3,7 @@ A)  I made my own original code in stead of changing a Shiffman coding challenge
 
 [Link](https://emmaottilie.github.io/Exercises/miniex8/)
 
-B)  This program includes variables, functions of mousepressed, mousedragged and a counter. It also includes a button, an image and a sound. 
+B)  This program includes variables, functions of mousepressed, mousedragged and a counter (to make the sound play only once, in stead of repeatedly on top of itself). It also includes a button, an image and a sound. 
 
 ![ScreenShot](https://github.com/EmmaOttilie/Exercises/blob/gh-pages/miniex8/8.png)
 ![ScreenShot](https://github.com/EmmaOttilie/Exercises/blob/gh-pages/miniex8/8.2.png)
