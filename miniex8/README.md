@@ -1,5 +1,5 @@
 
-A)  I made my own original code in stead of changing a coding challenge. I call it Kitty AI.
+A)  I made my own original code in stead of changing a Shiffman coding challenge. I call it Kitty AI.
 
 [Link](https://emmaottilie.github.io/Exercises/miniex8/)
 
