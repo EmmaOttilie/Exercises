@@ -1,5 +1,5 @@
 
-A)  I made my own original code instead of changing a Shiffman coding challenge. I call it Kitty AI.
+A)  I made my own original code instead of changing a Shiffman coding challenge. I call it Kitty AI. To pet the kitty, drag the mouse over it :)
 
 [Link](https://emmaottilie.github.io/Exercises/miniex8/)
 
