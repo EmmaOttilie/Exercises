@@ -13,10 +13,10 @@ var buttonLB;
 function setup() {
 createCanvas(1200, 600);
 background(255);
-loadJSON('https://api.openweathermap.org/data/2.5/weather?q=London&APPID=8b53ca3f53482f46aff2886b9a456f30&units=metric', gotData);
-loadJSON('https://api.openweathermap.org/data/2.5/weather?q=Denmark&APPID=8b53ca3f53482f46aff2886b9a456f30&units=metric', gotData2);
-loadJSON('https://api.openweathermap.org/data/2.5/weather?q=Mexico&APPID=8b53ca3f53482f46aff2886b9a456f30&units=metric', gotData3);
-loadJSON('https://api.openweathermap.org/data/2.5/weather?q=libya&APPID=8b53ca3f53482f46aff2886b9a456f30&units=metric', gotData4);
+loadJSON('http://api.openweathermap.org/data/2.5/weather?q=London&APPID=8b53ca3f53482f46aff2886b9a456f30&units=metric', gotData);
+loadJSON('http://api.openweathermap.org/data/2.5/weather?q=Denmark&APPID=8b53ca3f53482f46aff2886b9a456f30&units=metric', gotData2);
+loadJSON('http://api.openweathermap.org/data/2.5/weather?q=Mexico&APPID=8b53ca3f53482f46aff2886b9a456f30&units=metric', gotData3);
+loadJSON('http://api.openweathermap.org/data/2.5/weather?q=libya&APPID=8b53ca3f53482f46aff2886b9a456f30&units=metric', gotData4);
 console.log('hello world');
 //bottons
 buttonUK = createButton("United Kingdom");
