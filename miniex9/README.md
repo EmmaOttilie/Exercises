@@ -12,4 +12,4 @@ A)  We made a program that showcase the current temperature of 4 countries in pi
 B)  This exercise was really frustrating. Our initial idea had to be scrapped because of WHO KNOWS! We had the API, we had the JSON file and everything looking right in the code. But p5 would not call the file. We tried literally evertyhing to make it work. After that failure we just set aout to get some data to showcase in the program and made it as easy as possible by chosing some data from the given exercis and follow Shiffman. We still had some minor issues, but the program called the file correctly, and so we settled on this. 
 Acquiring the API was fine, no problems there. The problem was entirely with processing the data and showcasing it. 
 
-C)  
+C)  The aesthetics of big data. 
